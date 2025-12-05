@@ -1,11 +1,25 @@
-<div align="center">
+# Nakamoko Systems
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Automated digital platforms for startups and communities.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Instant App Generation:** Turn sketches, images, or text prompts into fully interactive web applications.
+- **AI-Powered Engineering:** Uses advanced Gemini models to analyze input and generate production-ready HTML/CSS/JS.
+- **Live Preview:** Real-time visualization of generated artifacts with split-view comparison capabilities.
+- **Simulation Mode:** Capable of simulating complex technical interfaces like network scanners and dashboards.
+- **History Management:** Local archive of previous creations for easy access and restoration.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tools Used
 
-</div>
+- **React:** Frontend library for building user interfaces.
+- **Vite:** Next Generation Frontend Tooling.
+- **Google GenAI SDK:** Powered by Gemini 1.5 Pro/Flash models.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **Heroicons:** Beautiful hand-crafted SVG icons.
+
+## License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+© 2025 Islam Hamdy – Nakamoko Systems. All rights reserved.
